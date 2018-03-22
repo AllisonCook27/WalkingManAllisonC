@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace WalkingManAllisonC
 {
-    static class Program
+    static class WalkingManProgram
     {
         /// <summary>
         /// The main entry point for the application.
@@ -16,7 +16,7 @@ namespace WalkingManAllisonC
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new WalkingManForm());
+            Application.Run(new frmWalkingMan());
         }
     }
 }
