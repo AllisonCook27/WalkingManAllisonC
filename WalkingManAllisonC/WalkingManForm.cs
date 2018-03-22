@@ -88,7 +88,7 @@ namespace WalkingManAllisonC
                 this.Refresh();
 
                 //pause the loop for 100 miliseconds
-                Thread.Sleep(100);
+                Thread.Sleep(80);
             }
         }
     }

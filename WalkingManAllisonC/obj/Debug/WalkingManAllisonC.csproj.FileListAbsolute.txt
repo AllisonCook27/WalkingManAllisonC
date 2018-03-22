@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\bin\Debug\WalkingManAllisonC.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\bin\Debug\WalkingManAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\bin\Debug\WalkingManAllisonC.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.frmWalkingMan.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Cook, Allison (s241474)\Unit 3 (Decisions)\WalkingManAllisonC\WalkingManAllisonC\obj\Debug\WalkingManAllisonC.pdb
